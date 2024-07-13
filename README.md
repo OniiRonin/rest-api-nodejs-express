@@ -27,6 +27,5 @@ Este proyecto es una API REST básica para gestionar una colección de libros ut
 Para iniciar el servidor, ejecuta el siguiente comando:
 ```bash
 npm run dev
-
-
+```
 Este README.md proporciona una guía básica para instalar, utilizar y contribuir al proyecto de tu API REST. Asegúrate de personalizarlo según las especificaciones y detalles específicos de tu proyecto.
