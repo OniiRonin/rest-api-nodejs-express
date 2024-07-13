@@ -1,0 +1,70 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Los 7 hábitos de la gente altamente efectiva",
+      "author": "Stephen R. Covey",
+      "year": 1989
+    },
+    {
+      "id": 2,
+      "name": "Padre rico, padre pobre",
+      "author": "Robert Kiyosaki",
+      "year": 1997
+    },
+    {
+      "id": 3,
+      "name": "Cómo ganar amigos e influir sobre las personas",
+      "author": "Dale Carnegie",
+      "year": 1989
+    },
+    {
+      "id": 4,
+      "name": "Piense y hágase rico",
+      "author": "Napoleon Hill",
+      "year": 1937
+    },
+    {
+      "id": 5,
+      "name": "El poder del ahora",
+      "author": "Eckhart Tolle",
+      "year": 1997
+    },
+    {
+      "id": 6,
+      "name": "La magia del orden",
+      "author": "Marie Kondo",
+      "year": 2011
+    },
+    {
+      "id": 7,
+      "name": "Hábitos atómicos",
+      "author": "James Clear",
+      "year": 2018
+    },
+    {
+      "id": 8,
+      "name": "La semana laboral de 4 horas",
+      "author": "Tim Ferriss",
+      "year": 2007
+    },
+    {
+      "id": 9,
+      "name": "El monje que vendió su Ferrari",
+      "author": "Robin Sharma",
+      "year": 1997
+    },
+    {
+      "id": 10,
+      "name": "De cero a uno",
+      "author": "Peter Thiel",
+      "year": 2014
+    },
+    {
+      "id": 11,
+      "name": "Una breve historia del tiempo",
+      "author": "Stephen Hawking",
+      "year": 1988
+    }
+  ]
+}

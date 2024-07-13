@@ -1,0 +1,30 @@
+# Solicitud para obtener todos los libros
+GET http://localhost:3000/books HTTP/1.1
+
+###
+# Solicitud para obtener un libro específico por su ID (en este caso, el libro con ID 1 - ejemplo)
+GET http://localhost:3000/books/1 HTTP/1.1
+
+###
+# Solicitud para crear un nuevo libro
+POST http://localhost:3000/books HTTP/1.1
+Content-Type: application/json
+
+{
+  "name": "Una breve historia del tiempo",
+  "author": "Stephen Hawking",
+  "year": 1988
+}
+
+###
+# Solicitud para actualizar un libro específico por su ID (en este caso, el libro con ID 3 - ejemplo)
+PUT http://localhost:3000/books/3 HTTP/1.1
+Content-Type: application/json
+
+{
+  "year": 1989
+}
+
+###
+# Solicitud para eliminar un libro específico por su ID (en este caso, el libro con ID 3 - es un ejemplo puedes usar cualquier libro)
+DELETE http://localhost:3000/books/3 HTTP/1.1
